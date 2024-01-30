@@ -1,5 +1,5 @@
 <div align="center">
-<img src="static/images/tucounsel-logo.png" alt="TU Counsel" style="display: block; margin: 0 auto width="150" height="150"/>
+
 </div>
 
 <div align="center">
@@ -12,22 +12,22 @@ Through its web-based resources, live chat feature, and appointment booking opti
 <details><summary><b style="font-size:21px;">App screenshots</summary></b>
     <details><summary><b>Home Page</summary>
         <div align="center">
-        <img src="static/images/live-preview.png" alt="TU Counsel" style="display: block; margin: 0 auto width="200" height="200"/>
+        <img src="static/images/live-preview.png" alt="counsel" style="display: block; margin: 0 auto width="200" height="200"/>
         </div>
     </details>
     <details><summary><b>Counsellor's Dashboard</summary>
         <div align="center">
-        <img src="static/images/dashboard.png" alt="TU Counsel" style="display: block; margin: 0 auto width="200" height="200"/>
+        <img src="static/images/dashboard.png" alt="counsel" style="display: block; margin: 0 auto width="200" height="200"/>
         </div>
     </details>
     <details><summary><b>Student's Live Chat View</summary>
         <div align="center">
-        <img src="static/images/student-live-chat.png" alt="TU Counsel" style="display: block; margin: 0 auto width="200" height="200"/>
+        <img src="static/images/student-live-chat.png" alt="counsel" style="display: block; margin: 0 auto width="200" height="200"/>
         </div>
     </details>
     <details><summary><b>Counsellor's Booked Appointments View</summary>
         <div align="center">
-        <img src="static/images/booked-appointments-preview.png" alt="TU Counsel" style="display: block; margin: 0 auto width="200" height="200"/>
+        <img src="static/images/booked-appointments-preview.png" alt="counsel" style="display: block; margin: 0 auto width="200" height="200"/>
         </div>
     </details>
 </details>
