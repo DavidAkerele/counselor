@@ -9,28 +9,7 @@ Through its web-based resources, live chat feature, and appointment booking opti
 </div>
 <hr>
 
-<details><summary><b style="font-size:21px;">App screenshots</summary></b>
-    <details><summary><b>Home Page</summary>
-        <div align="center">
-        <img src="static/images/live-preview.png" alt="counsel" style="display: block; margin: 0 auto width="200" height="200"/>
-        </div>
-    </details>
-    <details><summary><b>Counsellor's Dashboard</summary>
-        <div align="center">
-        <img src="static/images/dashboard.png" alt="counsel" style="display: block; margin: 0 auto width="200" height="200"/>
-        </div>
-    </details>
-    <details><summary><b>Student's Live Chat View</summary>
-        <div align="center">
-        <img src="static/images/student-live-chat.png" alt="counsel" style="display: block; margin: 0 auto width="200" height="200"/>
-        </div>
-    </details>
-    <details><summary><b>Counsellor's Booked Appointments View</summary>
-        <div align="center">
-        <img src="static/images/booked-appointments-preview.png" alt="counsel" style="display: block; margin: 0 auto width="200" height="200"/>
-        </div>
-    </details>
-</details>
+
 <hr>
 
 # Guidelines on how to run locally 💻
