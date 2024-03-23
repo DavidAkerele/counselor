@@ -14,19 +14,6 @@ Through its web-based resources, live chat feature, and appointment booking opti
 
 # Guidelines on how to run locally 💻
 
-## Clone this repository
-
-```
-git clone https://github.com/YoungAli/Real-counselling.git
-```
-
-## Change directory
-Change your directory to where you cloned the repository
-
-```
-cd Real-counselling
-```
-
 ## Create a virtual environment in the Real-counselling directory
 Ensure you are in the Real-counselling directory, run this command to create a virtual environment:
 ```
